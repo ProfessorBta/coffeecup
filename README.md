@@ -1,2 +1,2 @@
-# basesapper
-Plantilla base de Sapper\Svelte
+# CoffeeCup
+PWA for types of coffee
